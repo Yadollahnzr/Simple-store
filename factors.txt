@@ -1,0 +1,8 @@
+id = 45,67,10 , price = 45,70,1200 , count = 1,1,1 , username = ami32
+id = 10 , price = 1200 , count = 3 , username = va2222
+id = 23,11 , price = 11,200 , count = 1,1 , username = ben875
+id = 5,11 , price = 890,200 , count = 1,1 , username = ben875
+id = 45 , price = 45 , count = 1 , username = va2222
+id = 67 , price = 70 , count = 1 , username = biiiigreeez
+id = 11 , price = 200 , count = 10 , username = reza
+id = 1 , price = 100 , count = 2 , username = reza

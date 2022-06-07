@@ -1,0 +1,23 @@
+id = 44 , name = Amirmahdi  , city = Tehran , address = Tehran , niavaran , 54 street
+email = amirmahdi2000@gmail.com , username = ami32 , pass = 1243amir#$@ , type = admin
+
+id = 10 , name = mohammad  , city = karaj , address = karaj , fardis
+email = mohammmad@gmail.com , username = moh3137 , pass = moh132$# , type = user
+
+id = 33 , name = reza  , city = gilan , address = gilan , 45 street
+email = rezamohammadiii@gmail.com , username = va2222 , pass = rez31253## , type = user
+
+id = 56 , name = mahdi  , city = Ardebil , address = ardebil , karshenasan
+email = mahdi1998@gmail.com , username = mah221 , pass = ma2111@# , type = user
+
+id = 55 , name = goli  , city = rasht , address = gilan , 666 street
+email = gooollll6@gmail.com , username = goli955fy , pass = ggg31253## , type = user
+
+id = 86 , name = mahdi  , city = Ardebil , address = ardebil , farhangian
+email = mahdmorad@gmail.com , username = mah226 , pass = cuvkuuuu11#$ , type = user
+
+id = 51 , name = mohammad malakoti , city = yazd , address = yazd
+email = mohammad@gmail.com , username = mohammad , pass = b1@B , type = user
+
+id = 53 , name = ali shams , city = kerman , address = kerman
+email = ali@gmail.com , username = reza , pass = a1@B , type = user

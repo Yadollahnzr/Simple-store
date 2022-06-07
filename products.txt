@@ -1,0 +1,14 @@
+id = 45 , name = Watch 5004 , price = 45 , description = This watch is great for mid-range people
+amount = 34 , category = watch , city = Alborz
+
+id = 10 , name = iphone 13 pro max , price = 1200 , description = Apple's latest product
+amount = 30 , category = phone , city = tehran
+
+id = 23 , name = Adidas shoes , price = 9 , description = From the latest Adidas brands
+amount = 42 , category = shoes , city = Alborz
+
+id = 5 , name = iphone 12 pro max , price = 756 , description = Apple's latest product in last year
+amount = 56 , category = phone , city = tehran
+
+id = 67 , name = Men's shirts 009 , price = 70 , description = One of the newest men's fashions
+amount = 0 , category = Dress , city = tehran

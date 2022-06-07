@@ -1,0 +1,19 @@
+id = 56 , username = va2222 , comment = excellent , star = 4 , show = 1
+
+id = 10 , username = mah221 , comment = Good for normal use , star = 2 , show = 0
+
+id = 33 , username = ami32 , comment = Highly recommended excellent , star = 5 , show = 1
+
+id = 44 , username = moh3137 , comment = Not recommended , star = 1 , show = 1
+
+id = 33 , username = ami32 , comment = very user friendly , star = 4 , show = 0
+
+id = 5 , username = biiiigreeez , comment = acceptable , star = 2 , show = 1
+
+id = 23 , username = biiiigreeez , comment = Good , star = 4 , show = 1
+
+id = 11 , username = goli955fy , comment = recommended , star = 3 , show = 1
+
+id = 67 , username = moh3137 , comment = Not recommended , star = 1 , show = 1
+
+id = 11 , username = reza , comment = great , star = 2 , show = 1
