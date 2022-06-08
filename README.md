@@ -1,6 +1,6 @@
 # Simple-store
 Hello,
-  this project is a simple store with c++ and qt ui designer.
+  <p>this project is a simple store with c++ and qt ui designer.</p>
   In this project used files to store informations. when project is running all informations that there are in .txt files push up in vectors and works is done on vectors. 
   In this project has a login page that you can login with enter username and password. Also can register by click on register button and enter informations.
 When user type is user, Main menu page is showing. In this page there are some buttons that are do some works.
